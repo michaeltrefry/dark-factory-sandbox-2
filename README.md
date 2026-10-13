@@ -13,3 +13,5 @@ dotnet test
 `TextTools.WordCount` has a deliberate, untested defect (runs of spaces,
 leading/trailing whitespace, tabs and newlines are miscounted) so bug stories
 have something real to fix.
+
+`TextTools.CountVowels` follows the same contract as `michaeltrefry/dark-factory-sandbox`'s `TextTools.CountVowels`.
